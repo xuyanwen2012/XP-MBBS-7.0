@@ -1,0 +1,8 @@
+﻿<mapid=13>
+
+<ulds=title02>
+  z: 2001
+  blend_type: 0
+</ulds>
+
+</mapid>
